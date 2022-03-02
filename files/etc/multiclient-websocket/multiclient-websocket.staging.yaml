@@ -1,0 +1,5 @@
+projectName: example
+serviceName: multiclient-websocket
+env: staging
+server:
+  port: ":8000"
